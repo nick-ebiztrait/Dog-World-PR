@@ -1,0 +1,210 @@
+
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+<div class="section-{{ section.id }}-padding gradient color-{{ section.settings.section_color_scheme }}">
+  <div class="page-width">
+<div class="testimonial-section">
+  <div class="container">
+    <h2 class="testimonial-title">{{ section.settings.title }}</h2>
+    <div class="testimonial-slider">
+      {% for block in section.blocks %}
+        <div class="testimonial-slide">
+          <div class="testimonial-content color-{{ section.settings.color_scheme }}">
+            <span class="quote-icon">{% render 'quotes-icon' %}</span>
+            <p class="testimonial-text">{{ block.settings.testimonial_text }}</p>
+            <p class="testimonial-author">- {{ block.settings.author }}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="testimonial-navigation">
+      {% for block in section.blocks %}
+        <span class="nav-dot" data-slide="{{ forloop.index0 }}"></span>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+ </div>
+</div>
+{% schema %}
+{
+  "name": "Testimonial Section",
+  "settings": [
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Section Title",
+      "default": "What Our Clients Say"
+    },
+     {
+      "type": "header",
+      "content": "t:sections.image-with-text.settings.header_colors.content"
+    },        
+    {
+      "type": "color_scheme",
+      "id": "section_color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "scheme-1"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.multirow.settings.container_color_scheme.label",
+      "default": "scheme-1"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "testimonial",
+      "name": "Testimonial",
+      "settings": [
+        {
+          "type": "textarea",
+          "id": "testimonial_text",
+          "label": "Testimonial Text",
+          "default": "This is a sample testimonial."
+        },
+        {
+          "type": "text",
+          "id": "author",
+          "label": "Author Name",
+          "default": "John Doe"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Testimonial Section",
+      "category": "Custom Sections",
+      "blocks": [
+        {
+          "type": "testimonial"
+        },
+        {
+          "type": "testimonial"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    let slides = document.querySelectorAll(".testimonial-slide");
+    let dots = document.querySelectorAll(".nav-dot");
+
+    let index = 0;
+    function showSlide(n) {
+        slides.forEach((slide, i) => {
+            slide.style.display = i === n ? "block" : "none";
+        });
+        dots.forEach((dot, i) => {
+            dot.classList.toggle("active", i === n);
+        });
+    }
+
+    dots.forEach((dot, i) => {
+        dot.addEventListener("click", function () {
+            index = i;
+            showSlide(index);
+        });
+    });
+
+    showSlide(index);
+});
+</script>
+
+<style>
+.testimonial-section {
+  /* background-color: #f4f5fc; */
+  text-align: center;
+  /* padding: 50px 20px; */
+}
+.testimonial-title {
+  /* font-size: 24px; */
+  color: #5b3c3e;
+  margin-bottom: 20px;        text-transform: uppercase;
+}
+.testimonial-slider {
+  position: relative;
+  max-width: 880px;
+  margin: auto;
+}
+.testimonial-slide {
+  display: none;
+  /* background: #fff; */
+  padding: 20px;
+  /* border-radius: 8px; */
+  /* box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); */
+}
+.testimonial-slide:first-child {
+  display: block;
+}
+.quote-icon {
+  font-size: 40px;
+  /* color: #2a3f8d; */
+}
+.testimonial-text {
+  font-size: 18px;
+  /* color: #333; */margin:0;line-height: 28px;
+}
+.testimonial-author {
+  font-weight: 400;
+  /* color: #2a3f8d; */
+  margin-top: 10px;
+}
+.testimonial-navigation {
+  margin-top: 15px;
+}
+.nav-dot {
+  display: inline-block;
+  width: 20px;
+  height: 4px;
+  background: #ccc;
+  border-radius: 0%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.nav-dot.active {
+  background: #c5ba9c;
+}
+</style>
