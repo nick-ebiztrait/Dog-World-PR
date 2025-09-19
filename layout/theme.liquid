@@ -27,18 +27,15 @@
     {% endif %}
     {% render 'meta-tags' %}
 
-{%- if settings.cart_type == 'drawer' -%}
-  <link rel="preload" href="{{ 'component-cart-drawer.css' | asset_url }}" as="style">
-    <link rel="preload" href="{{ 'component-totals.css' | asset_url }}" as="style">
-    <link rel="preload" href="{{ 'component-totals.css' | asset_url }}" as="style">
-    <link rel="preload" href="{{ 'component-totals.css' | asset_url }}" as="style">
-    <link rel="preload" href="{{ 'component-price.css' | asset_url }}" as="style">
-    <link rel="preload" href="{{ 'component-discounts.css' | asset_url }}" as="style">
-    
+    {%- if settings.cart_type == 'drawer' -%}
+        <link rel="preload" href="{{ 'component-cart-drawer.css' | asset_url }}" as="style">
+        <link rel="preload" href="{{ 'component-totals.css' | asset_url }}" as="style">
+        <link rel="preload" href="{{ 'component-totals.css' | asset_url }}" as="style">
+        <link rel="preload" href="{{ 'component-totals.css' | asset_url }}" as="style">
+        <link rel="preload" href="{{ 'component-price.css' | asset_url }}" as="style">
+        <link rel="preload" href="{{ 'component-discounts.css' | asset_url }}" as="style">
     {%- endif -%}
-
-
-     <link rel="preload" href="{{ 'base.css' | asset_url }}" as="style">
+    <link rel="preload" href="{{ 'base.css' | asset_url }}" as="style">
     <link rel="preload" href="{{ 'style.css' | asset_url }}" as="style">
     <link rel="preload" as="style" media="screen" href="https://www.dogworldpr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
 
