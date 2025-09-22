@@ -161,7 +161,7 @@ display: block;
                 {{
                   block.settings.mobile_image
                   | image_url: width: 3840
-                  | image_tag: class: 'slideshow__media_mobile', loading:"eager", height: mobile_height, sizes: sizes, widths: widths, fetchpriority: fetch_priority
+                  | image_tag: class: 'slideshow__media_mobile', height: mobile_height, sizes: sizes, widths: widths, fetchpriority: fetch_priority
                 }}
               {% endif %}
             {%- else -%}
