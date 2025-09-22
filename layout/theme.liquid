@@ -415,6 +415,10 @@
     {%- endif -%}
     <link rel="preload" href="{{ 'splide.min.js' | asset_url }}" as="script">
 <script src="{{ 'splide.min.js' | asset_url }}"></script>
-
+<style>
+  body.loading .main-content {
+  opacity: 0.2; /* still visible */
+}
+</style>
   </body>
 </html>
