@@ -12,6 +12,7 @@
     "logo": "shopify://shop_images/Dog_World_PR.png",
     "logo_width": 360,
     "favicon": "shopify://shop_images/icons8-spa-flower-48.png",
+    "preloader_enable": false,
     "preloader": "shopify://shop_images/Infinity_1x-1.0s-200px-200px.gif",
     "type_header_font": "poppins_n4",
     "heading_scale": 100,
