@@ -392,18 +392,8 @@
         countrySelectorSearchCount: `{{ 'localization.country_results_count' | t: count: '[count]' }}`,
       };
     </script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script>
     
- 
-    document.addEventListener("DOMContentLoaded", function() {
-      setTimeout(function() {
-        document.getElementById("preloader").style.display = "none";
-      }, 1000); // Adjust timing if needed
-    });
-         $(window).on("load", function() {
-        $("#preloader").fadeOut("slow");
-      });
       
 </script>
     {%- if settings.predictive_search_enabled -%}
@@ -415,10 +405,6 @@
     {%- endif -%}
     <link rel="preload" href="{{ 'splide.min.js' | asset_url }}" as="script">
 <script src="{{ 'splide.min.js' | asset_url }}"></script>
-<style>
-  body.loading .main-content {
-  opacity: 0.2; /* still visible */
-}
-</style>
+
   </body>
 </html>
