@@ -1,1 +1,733 @@
-{"sections":{"slideshow_TgXkza":{"type":"slideshow","blocks":{"slide_PYQDF9":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/top-banner.jpg","mobile_image":"shopify:\/\/shop_images\/mobile-banner_1.jpg","image_overlay_opacity":0,"heading":"DOG WORLD PR \n<br>For your pet","heading_size":"hxxl","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/crunchy-treats","button_style_secondary":true,"show_text_box":true,"box_align":"middle-left","text_alignment":"left","text_alignment_mobile":"center","color_scheme":"scheme-2"}},"slide_RhC4CP":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/slide.png","mobile_image":"shopify:\/\/shop_images\/Rectangle_2.png","image_overlay_opacity":0,"heading":"DOG WORLD PR \n<br>For your pet","heading_size":"hxxl","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/crunchy-treats","button_style_secondary":true,"show_text_box":true,"box_align":"middle-left","text_alignment":"left","text_alignment_mobile":"center","color_scheme":"scheme-2"}},"slide_3ttLMf":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/slide.png","mobile_image":"shopify:\/\/shop_images\/Rectangle_2.png","image_overlay_opacity":0,"heading":"DOG WORLD PR \n<br>For you pet","heading_size":"hxxl","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/apparel","button_style_secondary":false,"show_text_box":true,"box_align":"middle-left","text_alignment":"left","text_alignment_mobile":"center","color_scheme":"scheme-2"}},"slide_rH4CqH":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/slide.png","mobile_image":"shopify:\/\/shop_images\/Rectangle_2.png","image_overlay_opacity":0,"heading":"DOG WORLD PR \n<br>For you pet","heading_size":"hxxl","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/apparel","button_style_secondary":false,"show_text_box":true,"box_align":"middle-left","text_alignment":"left","text_alignment_mobile":"center","color_scheme":"scheme-2"}}},"block_order":["slide_PYQDF9","slide_RhC4CP","slide_3ttLMf","slide_rH4CqH"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"collection_list_krGt4M":{"type":"collection-list","blocks":{"featured_collection_E6iayf":{"type":"featured_collection","settings":{"collection":"dog-leash"}},"featured_collection_zajRkw":{"type":"featured_collection","settings":{"collection":"freeze-dried-treats"}},"featured_collection_JFkpCR":{"type":"featured_collection","settings":{"collection":"treats"}},"featured_collection_JxXC3q":{"type":"featured_collection","settings":{"collection":"ice-cream-cakes"}},"featured_collection_ahT9PC":{"type":"featured_collection","settings":{"collection":"sojos-turkey"}}},"block_order":["featured_collection_E6iayf","featured_collection_zajRkw","featured_collection_JFkpCR","featured_collection_JxXC3q","featured_collection_ahT9PC"],"settings":{"title":"","heading_size":"h1","image_ratio":"square","columns_desktop":5,"color_scheme":"","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":60,"padding_bottom":20,"custom-css":"home-collection-1"}},"featured_collection_3RtRE9":{"type":"featured-collection","settings":{"collection":"dog-dry-food","products_to_show":4,"title":"Featured Products","heading_size":"h1","description":"","show_description":false,"description_style":"body","columns_desktop":4,"enable_desktop_slider":true,"full_width":false,"show_view_all":true,"view_all_style":"link","color_scheme":"","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":true,"padding_top":20,"padding_bottom":0}},"video_mPhyq8":{"type":"video","blocks":{"heading_izbcWq":{"type":"heading","settings":{"heading":"SHOP FOR DOG","heading_size":"hxl"}},"button_iABxzD":{"type":"button","settings":{"button_label":"Shop Now","button_link":"shopify:\/\/collections\/dog-collar","button_style_secondary":false}}},"block_order":["heading_izbcWq","button_iABxzD"],"disabled":true,"settings":{"heading":"","heading_size":"h1","enable_video_looping":false,"video":"shopify:\/\/files\/videos\/mixkit-happy-pug-running-across-a-grassy-park-45843-hd-ready.mp4","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","description":"","full_width":true,"color_scheme":"scheme-df46f3c0-255f-400b-bd9f-cb132101fa75","padding_top":36,"padding_bottom":36}},"hero_video_wHMbdf":{"type":"hero-video","blocks":{"heading_YeBeVC":{"type":"heading","settings":{"heading":"SHOP FOR DOG","subheading":"","font_size":100,"font_color":"#ffffff"}},"buttons_qnP7Rn":{"type":"buttons","settings":{"button_label_1":"SHOP NOW","button_link_1":"shopify:\/\/collections","button_label_2":"","button_link_2":"","font_size":100,"button_color":"#ffffff","font_button_color":"#ffffff"}}},"block_order":["heading_YeBeVC","buttons_qnP7Rn"],"name":"Hero Video","settings":{"video":"shopify:\/\/files\/videos\/mixkit-happy-pug-running-across-a-grassy-park-45843-hd-ready.mp4","image_height":70,"media_position":"center","video_url":"","autoplay_video":true,"description":"","content_aligment":"center","container_width":375,"vertical_position":50,"horizontal_position":50,"show_scrim":true,"scrim_lightness":0,"video_animation":"none","transparent_header":false,"padding_top":36,"padding_bottom":36}},"collection_list_M4tnH4":{"type":"collection-list","blocks":{"featured_collection_FrVie6":{"type":"featured_collection","settings":{"collection":"crunchy-treats"}},"featured_collection_FPzdpQ":{"type":"featured_collection","settings":{"collection":"dog-dry-food"}},"featured_collection_FUwtNf":{"type":"featured_collection","settings":{"collection":"soft-chewy-dog-treats"}}},"block_order":["featured_collection_FrVie6","featured_collection_FPzdpQ","featured_collection_FUwtNf"],"settings":{"title":"","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":60,"padding_bottom":40,"custom-css":"home-collection-2"}},"bgimage_image_with_text_VEbzm4":{"type":"bgimage-image-with-text","blocks":{"heading_7XkrCr":{"type":"heading","settings":{"heading":"As Seen on Social Media","heading_size":"hxl"}},"button_fyQxMy":{"type":"button","settings":{"button_label":"Shop Now","button_link":"shopify:\/\/collections\/as-seen-on-social-media","button_style_secondary":false}}},"block_order":["heading_7XkrCr","button_fyQxMy"],"disabled":true,"settings":{"height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","section_color_scheme":"scheme-1","color_scheme":"scheme-1","image_behavior":"none","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36,"custom_css":"home-bg-image-with-text-1"}},"image_with_text_N8rCPa":{"type":"image-with-text","blocks":{"heading_kqLQim":{"type":"heading","settings":{"heading":"FOR CATS LOVERS","heading_size":"h0"}},"text_jk9r9r":{"type":"text","settings":{"text":"<p>Wellness Complete Health wet cat recipes are an excellent source of high-quality protein and essential fatty acids, made with natural, wholesome ingredients free from grains, carrageenan, artificial colors, flavors or preservatives.<\/p>","text_style":"body"}},"button_UYPfz6":{"type":"button","settings":{"button_label":"Shop Now","button_link":"shopify:\/\/products\/health-variety-cans","button_style_secondary":false}}},"block_order":["heading_kqLQim","text_jk9r9r","button_UYPfz6"],"settings":{"image":"shopify:\/\/shop_images\/65f137398d9d562cac109fdc-wellness-complete-health-grain-free-wet.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","image_behavior":"none","content_layout":"no-overlap","desktop_content_position":"middle","desktop_content_alignment":"center","mobile_content_alignment":"center","section_color_scheme":"scheme-1","color_scheme":"scheme-5","padding_top":8,"padding_bottom":60,"custom-css":"home-image-with-text-1"}},"multicolumn_MMMmfx":{"type":"multicolumn","blocks":{"column_h7HJjL":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ellipse_4.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/harlow-blend"}},"column_kMGcUi":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ellipse_4_copy.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/puppy-cakes"}},"column_pXpHPq":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ellipse_4_copy_2.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/sojos"}},"column_yzwxqx":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ellipse_4_copy_3.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/squarepet"}},"column_6VJzQV":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ellipse_4_copy_4.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/whimzees"}},"column_aGdcTn":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ellipse_4_copy_5.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/old-mother"}}},"block_order":["column_h7HJjL","column_kMGcUi","column_pXpHPq","column_yzwxqx","column_6VJzQV","column_aGdcTn"],"settings":{"title":"Shop by Brand","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":6,"column_alignment":"center","background_style":"none","color_scheme":"scheme-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":0,"padding_bottom":60,"custom-css":""}},"collection_list_eHGELY":{"type":"collection-list","blocks":{"featured_collection_JMhcYT":{"type":"featured_collection","settings":{"collection":"harlow-blend"}},"featured_collection_hgA8ik":{"type":"featured_collection","settings":{"collection":""}},"featured_collection_g38CUX":{"type":"featured_collection","settings":{"collection":""}},"featured_collection_9XQmLK":{"type":"featured_collection","settings":{"collection":""}},"featured_collection_HNQaeP":{"type":"featured_collection","settings":{"collection":""}},"featured_collection_H4A4jn":{"type":"featured_collection","settings":{"collection":""}}},"block_order":["featured_collection_JMhcYT","featured_collection_hgA8ik","featured_collection_g38CUX","featured_collection_9XQmLK","featured_collection_HNQaeP","featured_collection_H4A4jn"],"disabled":true,"name":"t:sections.collection-list.presets.name","settings":{"title":"Shop By Brand","heading_size":"h1","image_ratio":"square","columns_desktop":6,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36,"custom-css":""}},"17390502700dc9c1a9":{"type":"apps","disabled":true,"settings":{"include_margins":true}},"testimonial_D4PJJi":{"type":"testimonial","blocks":{"testimonial_gDVPgT":{"type":"testimonial","settings":{"testimonial_text":"We are very happy with Harlow Blend Chicken & Vegetable recipe, and it shows in the performance of our working border collies. Our senior less active Thank you, Harlow Blend!","author":"Nathalie Eqenique"}},"testimonial_Lw4pnR":{"type":"testimonial","settings":{"testimonial_text":"I am an ingredient reader and this is definitely a good dog food in regards to minimal ingredients and quality.My dogs certainly enjoy this food.","author":"Gail Winthrop"}},"testimonial_qN3b8C":{"type":"testimonial","settings":{"testimonial_text":"I moved on to Harlow Blend Lamb and Rice, Zack is now 9 years old and thriving. He loves his food.","author":"Laurie Margorel"}},"testimonial_bNDYkW":{"type":"testimonial","settings":{"testimonial_text":"Since I switched to Harlow Blend, Koko ear infections cleared up within 2 weeks and she stopped itching! It was a miracle. I am very happy with Harlow Bend!","author":"Amanda Lowe"}}},"block_order":["testimonial_gDVPgT","testimonial_Lw4pnR","testimonial_qN3b8C","testimonial_bNDYkW"],"settings":{"padding_top":40,"padding_bottom":40,"title":"What our clients say","section_color_scheme":"scheme-208ad261-871c-4ad9-ab67-7ee771c29c70","color_scheme":"scheme-208ad261-871c-4ad9-ab67-7ee771c29c70"}},"multicolumn_cJRbwR":{"type":"multicolumn","blocks":{"column_RtEUfX":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rectangle_13.png","title":"","text":"","link_label":"","link":""}},"column_Lk63ke":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rectangle_13_copy.png","title":"","text":"","link_label":"","link":""}},"column_9yAkGd":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rectangle_13_copy_2.png","title":"","text":"","link_label":"","link":""}},"column_AieFpy":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Rectangle_13_copy_3.png","title":"","text":"","link_label":"","link":""}}},"block_order":["column_RtEUfX","column_Lk63ke","column_9yAkGd","column_AieFpy"],"disabled":true,"settings":{"title":"Follow us on Instagram","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":4,"column_alignment":"center","background_style":"none","color_scheme":"","columns_mobile":"2","swipe_on_mobile":true,"padding_top":60,"padding_bottom":60,"custom-css":""}},"173897713165bad5bc":{"type":"apps","blocks":{"instafeed_app_block_K89iCQ":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"title":"Follow us on Instagtam","title_color":"#5b3c3e","title_size_v2":0,"alignment":"center","instafeed_margin_top":0,"instafeed_margin_bottom":0,"instafeed_margin_sides":0,"show_instagram_link":true,"link_alignment":"center","link_color":"#000000","background_color":"","feed_id":"","html_area":""}}},"block_order":["instafeed_app_block_K89iCQ"],"settings":{"include_margins":true}}},"order":["slideshow_TgXkza","collection_list_krGt4M","featured_collection_3RtRE9","video_mPhyq8","hero_video_wHMbdf","collection_list_M4tnH4","bgimage_image_with_text_VEbzm4","image_with_text_N8rCPa","multicolumn_MMMmfx","collection_list_eHGELY","17390502700dc9c1a9","testimonial_D4PJJi","multicolumn_cJRbwR","173897713165bad5bc"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_TgXkza": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_PYQDF9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/top-banner.jpg",
+            "mobile_image": "shopify://shop_images/mobile-banner_1.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "DOG WORLD PR \n<br>For your pet",
+            "heading_size": "hxxl",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/crunchy-treats",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-2"
+          }
+        },
+        "slide_RhC4CP": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/slide.png",
+            "mobile_image": "shopify://shop_images/Rectangle_2.png",
+            "image_overlay_opacity": 0,
+            "heading": "DOG WORLD PR \n<br>For your pet",
+            "heading_size": "hxxl",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/crunchy-treats",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-2"
+          }
+        },
+        "slide_3ttLMf": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/slide.png",
+            "mobile_image": "shopify://shop_images/Rectangle_2.png",
+            "image_overlay_opacity": 0,
+            "heading": "DOG WORLD PR \n<br>For you pet",
+            "heading_size": "hxxl",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/apparel",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-2"
+          }
+        },
+        "slide_rH4CqH": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/slide.png",
+            "mobile_image": "shopify://shop_images/Rectangle_2.png",
+            "image_overlay_opacity": 0,
+            "heading": "DOG WORLD PR \n<br>For you pet",
+            "heading_size": "hxxl",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/apparel",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-2"
+          }
+        }
+      },
+      "block_order": [
+        "slide_PYQDF9",
+        "slide_RhC4CP",
+        "slide_3ttLMf",
+        "slide_rH4CqH"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "collection_list_krGt4M": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_E6iayf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dog-leash"
+          }
+        },
+        "featured_collection_zajRkw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "freeze-dried-treats"
+          }
+        },
+        "featured_collection_JFkpCR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treats"
+          }
+        },
+        "featured_collection_JxXC3q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ice-cream-cakes"
+          }
+        },
+        "featured_collection_ahT9PC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sojos-turkey"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_E6iayf",
+        "featured_collection_zajRkw",
+        "featured_collection_JFkpCR",
+        "featured_collection_JxXC3q",
+        "featured_collection_ahT9PC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 20,
+        "custom-css": "home-collection-1"
+      }
+    },
+    "featured_collection_3RtRE9": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "dog-dry-food",
+        "products_to_show": 4,
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "video_mPhyq8": {
+      "type": "video",
+      "blocks": {
+        "heading_izbcWq": {
+          "type": "heading",
+          "settings": {
+            "heading": "SHOP FOR DOG",
+            "heading_size": "hxl"
+          }
+        },
+        "button_iABxzD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/dog-collar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_izbcWq",
+        "button_iABxzD"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/mixkit-happy-pug-running-across-a-grassy-park-45843-hd-ready.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "scheme-df46f3c0-255f-400b-bd9f-cb132101fa75",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "hero_video_wHMbdf": {
+      "type": "hero-video",
+      "blocks": {
+        "heading_YeBeVC": {
+          "type": "heading",
+          "settings": {
+            "heading": "SHOP FOR DOG",
+            "subheading": "",
+            "font_size": 100,
+            "font_color": "#ffffff"
+          }
+        },
+        "buttons_qnP7Rn": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify://collections",
+            "button_label_2": "",
+            "button_link_2": "",
+            "font_size": 100,
+            "button_color": "#ffffff",
+            "font_button_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YeBeVC",
+        "buttons_qnP7Rn"
+      ],
+      "disabled": true,
+      "name": "Hero Video",
+      "settings": {
+        "video": "shopify://files/videos/mixkit-happy-pug-running-across-a-grassy-park-45843-hd-ready.mp4",
+        "image_height": 70,
+        "media_position": "center",
+        "video_url": "",
+        "autoplay_video": true,
+        "description": "",
+        "content_aligment": "center",
+        "container_width": 375,
+        "vertical_position": 50,
+        "horizontal_position": 50,
+        "show_scrim": true,
+        "scrim_lightness": 0,
+        "video_animation": "none",
+        "transparent_header": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_M4tnH4": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FrVie6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "crunchy-treats"
+          }
+        },
+        "featured_collection_FPzdpQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dog-dry-food"
+          }
+        },
+        "featured_collection_FUwtNf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soft-chewy-dog-treats"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FrVie6",
+        "featured_collection_FPzdpQ",
+        "featured_collection_FUwtNf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 40,
+        "custom-css": "home-collection-2"
+      }
+    },
+    "bgimage_image_with_text_VEbzm4": {
+      "type": "bgimage-image-with-text",
+      "blocks": {
+        "heading_7XkrCr": {
+          "type": "heading",
+          "settings": {
+            "heading": "As Seen on Social Media",
+            "heading_size": "hxl"
+          }
+        },
+        "button_fyQxMy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/as-seen-on-social-media",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7XkrCr",
+        "button_fyQxMy"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_css": "home-bg-image-with-text-1"
+      }
+    },
+    "image_with_text_N8rCPa": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kqLQim": {
+          "type": "heading",
+          "settings": {
+            "heading": "FOR CATS LOVERS",
+            "heading_size": "h0"
+          }
+        },
+        "text_jk9r9r": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wellness Complete Health wet cat recipes are an excellent source of high-quality protein and essential fatty acids, made with natural, wholesome ingredients free from grains, carrageenan, artificial colors, flavors or preservatives.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_UYPfz6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/health-variety-cans",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kqLQim",
+        "text_jk9r9r",
+        "button_UYPfz6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/65f137398d9d562cac109fdc-wellness-complete-health-grain-free-wet.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-5",
+        "padding_top": 8,
+        "padding_bottom": 60,
+        "custom-css": "home-image-with-text-1"
+      }
+    },
+    "multicolumn_MMMmfx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_h7HJjL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ellipse_4.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/harlow-blend"
+          }
+        },
+        "column_kMGcUi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ellipse_4_copy.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/puppy-cakes"
+          }
+        },
+        "column_pXpHPq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ellipse_4_copy_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/sojos"
+          }
+        },
+        "column_yzwxqx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ellipse_4_copy_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/squarepet"
+          }
+        },
+        "column_6VJzQV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ellipse_4_copy_4.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/whimzees"
+          }
+        },
+        "column_aGdcTn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ellipse_4_copy_5.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/old-mother"
+          }
+        }
+      },
+      "block_order": [
+        "column_h7HJjL",
+        "column_kMGcUi",
+        "column_pXpHPq",
+        "column_yzwxqx",
+        "column_6VJzQV",
+        "column_aGdcTn"
+      ],
+      "settings": {
+        "title": "Shop by Brand",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "custom-css": ""
+      }
+    },
+    "collection_list_eHGELY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_JMhcYT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harlow-blend"
+          }
+        },
+        "featured_collection_hgA8ik": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_g38CUX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9XQmLK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_HNQaeP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_H4A4jn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_JMhcYT",
+        "featured_collection_hgA8ik",
+        "featured_collection_g38CUX",
+        "featured_collection_9XQmLK",
+        "featured_collection_HNQaeP",
+        "featured_collection_H4A4jn"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Shop By Brand",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom-css": ""
+      }
+    },
+    "17390502700dc9c1a9": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "testimonial_D4PJJi": {
+      "type": "testimonial",
+      "blocks": {
+        "testimonial_gDVPgT": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "We are very happy with Harlow Blend Chicken & Vegetable recipe, and it shows in the performance of our working border collies. Our senior less active Thank you, Harlow Blend!",
+            "author": "Nathalie Eqenique"
+          }
+        },
+        "testimonial_Lw4pnR": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "I am an ingredient reader and this is definitely a good dog food in regards to minimal ingredients and quality.My dogs certainly enjoy this food.",
+            "author": "Gail Winthrop"
+          }
+        },
+        "testimonial_qN3b8C": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "I moved on to Harlow Blend Lamb and Rice, Zack is now 9 years old and thriving. He loves his food.",
+            "author": "Laurie Margorel"
+          }
+        },
+        "testimonial_bNDYkW": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "Since I switched to Harlow Blend, Koko ear infections cleared up within 2 weeks and she stopped itching! It was a miracle. I am very happy with Harlow Bend!",
+            "author": "Amanda Lowe"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_gDVPgT",
+        "testimonial_Lw4pnR",
+        "testimonial_qN3b8C",
+        "testimonial_bNDYkW"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "title": "What our clients say",
+        "section_color_scheme": "scheme-208ad261-871c-4ad9-ab67-7ee771c29c70",
+        "color_scheme": "scheme-208ad261-871c-4ad9-ab67-7ee771c29c70"
+      }
+    },
+    "multicolumn_cJRbwR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RtEUfX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_13.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Lk63ke": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_13_copy.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9yAkGd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_13_copy_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AieFpy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_13_copy_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RtEUfX",
+        "column_Lk63ke",
+        "column_9yAkGd",
+        "column_AieFpy"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Follow us on Instagram",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "custom-css": ""
+      }
+    },
+    "173897713165bad5bc": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_K89iCQ": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "Follow us on Instagtam",
+            "title_color": "#5b3c3e",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": true,
+            "link_alignment": "center",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_K89iCQ"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_TgXkza",
+    "collection_list_krGt4M",
+    "featured_collection_3RtRE9",
+    "video_mPhyq8",
+    "hero_video_wHMbdf",
+    "collection_list_M4tnH4",
+    "bgimage_image_with_text_VEbzm4",
+    "image_with_text_N8rCPa",
+    "multicolumn_MMMmfx",
+    "collection_list_eHGELY",
+    "17390502700dc9c1a9",
+    "testimonial_D4PJJi",
+    "multicolumn_cJRbwR",
+    "173897713165bad5bc"
+  ]
+}
