@@ -256,7 +256,7 @@
           font-size: 1.6rem;
         }
       }
-        .dT_loading {
+         #preloader, .dT_loading {
       position: fixed;
       display:block;
       z-index: 2000;
@@ -317,7 +317,7 @@
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-    
+    {% render "scripts" %}
   </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
@@ -399,7 +399,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       setTimeout(function() {
         document.getElementById("preloader").style.display = "none";
-      }, 10); // Adjust timing if needed
+      }, 1000); // Adjust timing if needed
     });
          $(window).on("load", function() {
         $("#preloader").fadeOut("slow");
@@ -413,6 +413,8 @@
     {%- if settings.cart_type == 'drawer' -%}
       <script src="{{ 'cart-drawer.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-   
+    <link rel="preload" href="{{ 'splide.min.js' | asset_url }}" as="script">
+<script src="{{ 'splide.min.js' | asset_url }}"></script>
+
   </body>
 </html>
