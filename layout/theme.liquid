@@ -395,6 +395,16 @@
     </script>
   <script>
     
+    {%comment %}
+    document.addEventListener("DOMContentLoaded", function() {
+      setTimeout(function() {
+        document.getElementById("preloader").style.display = "none";
+      }, 1000); // Adjust timing if needed
+    });
+         $(window).on("load", function() {
+        $("#preloader").fadeOut("slow");
+      });
+      {% endcomment %}
 </script>
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
