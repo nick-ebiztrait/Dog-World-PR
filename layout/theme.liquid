@@ -26,7 +26,8 @@
       <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
        {% render 'meta-tags' %}
-        
+        <link rel="preload" href="{{ 'base.css' | asset_url }}" as="style">
+        <link rel="preload" href="{{ 'style.css' | asset_url }}" as="style">
         <link rel="preload" as="style" media="screen" href="https://www.dogworldpr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
    
     
@@ -394,6 +395,15 @@
     </script>
   <script>
     
+ 
+    document.addEventListener("DOMContentLoaded", function() {
+      setTimeout(function() {
+        document.getElementById("preloader").style.display = "none";
+      }, 1000); // Adjust timing if needed
+    });
+         $(window).on("load", function() {
+        $("#preloader").fadeOut("slow");
+      });
       
 </script>
     {%- if settings.predictive_search_enabled -%}
