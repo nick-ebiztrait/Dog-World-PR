@@ -17,8 +17,8 @@
 -%}
 
 {% if social_icons %}
-   <link rel="preload" href="{{ 'component-list-social.css' | asset_url }}" as="style">
-  {{ 'component-list-social.css' | asset_url | stylesheet_tag }}
+   
+  {{ 'component-list-social.css' | asset_url | stylesheet_tag: preload: true }}
 {% endif %}
 
 <div
