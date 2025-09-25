@@ -1,4 +1,10 @@
 {% comment %}theme-check-disable UndefinedObject{% endcomment %}
+ <link rel="preload" href="{{ 'section-footer.css' | asset_url }}" as="style">
+ <link rel="preload" href="{{ 'component-newsletter.css' | asset_url }}" as="style">
+ <link rel="preload" href="{{ 'component-list-menu.css' | asset_url }}" as="style">
+ <link rel="preload" href="{{ 'component-list-payment.css' | asset_url }}" as="style">
+ <link rel="preload" href="{{ 'component-list-social.css' | asset_url }}" as="style">
+
 {{ 'section-footer.css' | asset_url | stylesheet_tag }}
 {{ 'component-newsletter.css' | asset_url | stylesheet_tag }}
 {{ 'component-list-menu.css' | asset_url | stylesheet_tag }}
