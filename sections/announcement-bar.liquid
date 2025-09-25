@@ -1,5 +1,7 @@
-{{ 'component-slideshow.css' | asset_url | stylesheet_tag: preload: true }}
-{{ 'component-slider.css' | asset_url | stylesheet_tag: preload: true }}
+<link rel="preload" href="{{ 'component-slideshow.css' | asset_url }}" as="style">
+<link rel="preload" href="{{ 'component-slider.css' | asset_url }}" as="style">
+{{ 'component-slideshow.css' | asset_url | stylesheet_tag }}
+{{ 'component-slider.css' | asset_url | stylesheet_tag }}
 
 {%- liquid
   assign social_icons = true
@@ -15,7 +17,8 @@
 -%}
 
 {% if social_icons %}
-  {{ 'component-list-social.css' | asset_url | stylesheet_tag: preload: true }}
+   <link rel="preload" href="{{ 'component-list-social.css' | asset_url }}" as="style">
+  {{ 'component-list-social.css' | asset_url | stylesheet_tag }}
 {% endif %}
 
 <div
