@@ -326,12 +326,15 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
     <script>
+      $(window).on("load", function() {
     $("#resultsA").css({
   "background-image": "url('https://www.dogworldpr.com/cdn/shop/files/top-banner.jpg?v=1748260660&width=3840')",
   "background-size": "cover",
   "background-position": "center",
   "background-repeat": "no-repeat"
-});</script>
+});
+});
+</script>
     {% render "scripts" %}
   </head>
 
