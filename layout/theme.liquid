@@ -345,6 +345,19 @@
   "background-image": "url('https://www.dogworldpr.com/cdn/shop/files/top-banner.jpg?v=1748260660&width=3840')",
  
 });
+window.addEventListener("load", function() {
+  if (/Mobi|Android/i.test(navigator.userAgent)) {
+    // Force show hero/above fold for mobile
+    document.getElementById("hero-section").style.visibility = "visible";
+  }
+});
+window.addEventListener("load", function() {
+  // Hide loader
+  document.getElementById("loader")?.style.display = "none";
+
+  // Keep your main page visible
+  document.getElementById("main-content")?.style.display = "block";
+});
 }
 });
 </script>
