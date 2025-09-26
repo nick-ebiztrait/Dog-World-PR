@@ -333,39 +333,6 @@
     <div class="spinner"></div> 
     </div>
     
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-      if(window.matchMedia("(max-width: 767px)").matches){
-    $("#resultsA").css({
-  "background-image": "url('https://www.dogworldpr.com/cdn/shop/files/top-banner.jpg?v=1748260660&width=3840')",
- 
-});
-window.addEventListener("load", function() {
-  if (/Mobi|Android/i.test(navigator.userAgent)) {
-    // Force show hero/above fold for mobile
-    document.getElementById("hero-section").style.visibility = "visible";
-  }
-});
-window.addEventListener("load", function() {
-  // Hide loader
-  document.getElementById("loader")?.style.display = "none";
-
-  // Keep your main page visible
-  document.getElementById("main-content")?.style.display = "block";
-});
-}
-});
-</script>
-<style>
-  #instant-content {
-  text-align: center;
-  padding: 40px;
-  font-size: 18px;
-  color: #333;
-}
-</style>
     {% endif %}
     
     {% section 'custom-font' %}
