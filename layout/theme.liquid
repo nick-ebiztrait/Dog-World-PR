@@ -325,6 +325,37 @@
     </script>
     
     {% render "scripts" %}
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "{{ shop.url }}#localbusiness",
+  "name": "{{ shop.name }}",
+  "url": "{{ shop.url }}",
+  "image": "{{ shop.brand.logo | image_url }}",
+  "telephone": "+1{{ shop.phone | remove: ' ' | remove: '-' }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "E1 Calle 9",
+    "addressLocality": "Guaynabo",
+    "addressRegion": "PR",
+    "postalCode": "00966",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 18.3940036,
+    "longitude": -66.1066287
+  },
+  "sameAs": [
+    "https://www.facebook.com/dogworldpr/",
+    "https://www.instagram.com/dogworldpr/"
+  ]
+}
+</script>
+
+
   </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
