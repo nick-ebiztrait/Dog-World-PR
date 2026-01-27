@@ -333,7 +333,9 @@
   "@id": "{{ shop.url }}#localbusiness",
   "name": "{{ shop.name }}",
   "url": "{{ shop.url }}",
-  "image": "{{ settings.logo | image_url: width: 500 }}",
+  {% if shop.brand.logo != blank %}
+  "image": "https:{{ shop.brand.logo | image_url: width: 500 }}",
+  {% endif %}
   "telephone": "+1{{ shop.phone | remove: ' ' | remove: '-' }}",
   "address": {
     "@type": "PostalAddress",
@@ -354,6 +356,7 @@
   ]
 }
 </script>
+
 
 
   </head>
