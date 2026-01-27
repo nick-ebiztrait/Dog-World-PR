@@ -333,7 +333,7 @@
   "@id": "{{ shop.url }}#localbusiness",
   "name": "{{ shop.name }}",
   "url": "{{ shop.url }}",
-  "image": "{{ shop.brand.logo | image_url }}",
+  "image": "{{ settings.logo | image_url: width: 500 }}",
   "telephone": "+1{{ shop.phone | remove: ' ' | remove: '-' }}",
   "address": {
     "@type": "PostalAddress",
