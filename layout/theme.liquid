@@ -330,13 +330,11 @@
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "{{ shop.url }}#localbusiness",
-  "name": "{{ shop.name }}",
-  "url": "{{ shop.url }}",
-  {% if shop.brand.logo != blank %}
-  "image": "https:{{ shop.brand.logo | image_url: width: 500 }}",
-  {% endif %}
-  "telephone": "+1{{ shop.phone | remove: ' ' | remove: '-' }}",
+  "name": "Dog World PR",
+  "image": "https://www.dogworldpr.com/cdn/shop/files/Dog_World_PR.png?v=1743673302&width=360",
+  "@id": "",
+  "url": "https://www.dogworldpr.com/",
+  "telephone": "7875508441",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "E1 Calle 9",
@@ -349,11 +347,11 @@
     "@type": "GeoCoordinates",
     "latitude": 18.3940036,
     "longitude": -66.1066287
-  },
+  } ,
   "sameAs": [
     "https://www.facebook.com/dogworldpr/",
-    "https://www.instagram.com/dogworldpr/"
-  ]
+    "https://www.instagram.com/p/Cft12YLr-1g"
+  ] 
 }
 </script>
 
