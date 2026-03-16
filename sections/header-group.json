@@ -14,6 +14,13 @@
     "announcement_bar_6GXeAw": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_49cbVw": {
+          "type": "announcement",
+          "settings": {
+            "text": "🍀 St. Patrick's Day Savings! Get 20% OFF Sitewide with code STPAT20 - Limited Time Only!",
+            "link": ""
+          }
+        },
         "announcement_TRmK3r": {
           "type": "announcement",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "announcement_49cbVw",
         "announcement_TRmK3r"
       ],
       "custom_css": [],
